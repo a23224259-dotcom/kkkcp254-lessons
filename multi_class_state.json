@@ -1,7 +1,12 @@
 {
   "last_date": "",
   "last_slot": -1,
-  "level_index": {},
-  "sent_hashes": [],
-  "first_media_stage": "pending"
+  "level_index": {
+    "Playgroup": 1
+  },
+  "sent_hashes": [
+    "53afd68b79a2ca351d1e4adf01b70e2061d75b1bf7cb1ac8a2648969f292a65f"
+  ],
+  "first_media_stage": "complete",
+  "manual_level_index": 1
 }
