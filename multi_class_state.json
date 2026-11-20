@@ -1,15 +1,17 @@
 {
   "last_date": "2026-11-20",
-  "last_slot": 40,
+  "last_slot": 42,
   "level_index": {
     "Playgroup": 1,
     "Grade 6": 1,
-    "Grade 8": 1
+    "Grade 8": 1,
+    "Grade 10": 1
   },
   "sent_hashes": [
+    "53afd68b79a2ca351d1e4adf01b70e2061d75b1bf7cb1ac8a2648969f292a65f",
     "90f0bc4f4ce23b6d5e481c81c97c576345c076459445aa62fe3fc651bd8e6a15",
-    "b14405b808ec79cf72dde3ccbb6393a70f5fd1dd4a71e9ba51d466741bf943e2",
-    "53afd68b79a2ca351d1e4adf01b70e2061d75b1bf7cb1ac8a2648969f292a65f"
+    "4e9611e8c0788eb43494d45de8008ec28197a3ffe815ef0d478fc9e67ef9015a",
+    "b14405b808ec79cf72dde3ccbb6393a70f5fd1dd4a71e9ba51d466741bf943e2"
   ],
   "first_media_stage": "complete",
   "manual_level_index": 1
